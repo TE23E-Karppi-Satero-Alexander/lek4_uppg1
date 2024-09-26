@@ -20,12 +20,17 @@ p{
     margin: 4%;
 }
 
+.sidfot{
+    height: 250px;
+    width: auto;
+    background-repeat: no-repeat;
+    margin-left: 15%;
+    background-image: url(./img/logo-html-css-js.png);
+}
+
 .artikel{
     background-color: lightgray;
     border: 2px solid black;
     margin: 2%;
 }
 
-.sidfot{
-    background-image: url(./img/logo-html-css-js.png);
-}
